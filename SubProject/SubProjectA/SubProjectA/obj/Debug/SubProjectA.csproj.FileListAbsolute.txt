@@ -6,3 +6,6 @@ C:\Projects\SubProject\SubProjectA\SubProjectA\obj\Debug\SubProjectA.Properties.
 C:\Projects\SubProject\SubProjectA\SubProjectA\obj\Debug\SubProjectA.csproj.GenerateResource.Cache
 C:\Projects\SubProject\SubProjectA\SubProjectA\obj\Debug\SubProjectA.exe
 C:\Projects\SubProject\SubProjectA\SubProjectA\obj\Debug\SubProjectA.pdb
+C:\Users\thanspal\Desktop\SubProject\SubProject\SubProjectA\SubProjectA\bin\Debug\SubProjectA.exe.config
+C:\Users\thanspal\Desktop\SubProject\SubProject\SubProjectA\SubProjectA\obj\Debug\SubProjectA.exe
+C:\Users\thanspal\Desktop\SubProject\SubProject\SubProjectA\SubProjectA\obj\Debug\SubProjectA.pdb
