@@ -1,0 +1,8 @@
+C:\Projects\SubProject\SubProjectA\SubProjectA\bin\Debug\SubProjectA.exe.config
+C:\Projects\SubProject\SubProjectA\SubProjectA\bin\Debug\SubProjectA.exe
+C:\Projects\SubProject\SubProjectA\SubProjectA\bin\Debug\SubProjectA.pdb
+C:\Projects\SubProject\SubProjectA\SubProjectA\obj\Debug\SubProjectA.csprojResolveAssemblyReference.cache
+C:\Projects\SubProject\SubProjectA\SubProjectA\obj\Debug\SubProjectA.Properties.Resources.resources
+C:\Projects\SubProject\SubProjectA\SubProjectA\obj\Debug\SubProjectA.csproj.GenerateResource.Cache
+C:\Projects\SubProject\SubProjectA\SubProjectA\obj\Debug\SubProjectA.exe
+C:\Projects\SubProject\SubProjectA\SubProjectA\obj\Debug\SubProjectA.pdb

@@ -1,0 +1,8 @@
+C:\Projects\SubProject\SubProjectCommonDAL\bin\Debug\SubProjectCommonDAL.exe.config
+C:\Projects\SubProject\SubProjectCommonDAL\bin\Debug\SubProjectCommonDAL.exe
+C:\Projects\SubProject\SubProjectCommonDAL\bin\Debug\SubProjectCommonDAL.pdb
+C:\Projects\SubProject\SubProjectCommonDAL\obj\Debug\SubProjectCommonDAL.csprojResolveAssemblyReference.cache
+C:\Projects\SubProject\SubProjectCommonDAL\obj\Debug\SubProjectCommonDAL.Properties.Resources.resources
+C:\Projects\SubProject\SubProjectCommonDAL\obj\Debug\SubProjectCommonDAL.csproj.GenerateResource.Cache
+C:\Projects\SubProject\SubProjectCommonDAL\obj\Debug\SubProjectCommonDAL.exe
+C:\Projects\SubProject\SubProjectCommonDAL\obj\Debug\SubProjectCommonDAL.pdb
